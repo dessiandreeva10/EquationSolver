@@ -1,0 +1,1 @@
+This project contains linear and quadratic equation solving implementation. 
